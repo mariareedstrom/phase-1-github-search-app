@@ -11,3 +11,14 @@
 ul {
   list-style: none;
 }
+
+li {
+}
+
+.user-avatar {
+  max-width: 64px;
+}
+
+.user-avatar img {
+  width: 100%;
+}
